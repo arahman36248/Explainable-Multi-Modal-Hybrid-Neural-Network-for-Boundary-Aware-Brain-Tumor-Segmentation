@@ -11,7 +11,7 @@ The pipeline covers the full research workflow — from raw data download to mod
 ## Research Title
 
 > **Explainable Multi-Modal Hybrid Neural Network for Boundary-Aware Medical Image Segmentation**
-![image alt](https://github.com/irfanulkabirhira/Explainable-Multi-Modal-Hybrid-Neural-Network-for-Boundary-Aware-Brain-Tumor-Segmentation/blob/fcc961e5f01e6a4a180e0b48c3e7395fd312c2c6/model_architecture.png)
+![image alt](https://github.com/arahman36248/Explainable-Multi-Modal-Hybrid-Neural-Network-for-Boundary-Aware-Brain-Tumor-Segmentation/blob/d27ef78936951f482a190f998bdc2deddc1524a9/Pipline.jpeg)
 ---
 
 ## Key Features
